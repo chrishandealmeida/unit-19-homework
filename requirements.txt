@@ -1,0 +1,11 @@
+Installing bit:
+
+$ pip install bit
+
+Installing web3:
+
+$ pip install web3
+
+Cloning and Installing hd-wallet-derive:
+
+Refer to HD_Wallet_Derive_Install_Guide.md included in GitHub repo.
